@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Quality-Digital
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  Quality-Digital 🌎 </strong>
+  
+  <br>
+  <br>
+ 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/DeyvisonCost/Quality" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/DeyvisonCost/Quality" />
+  <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/DeyvisonCost/Quality" />
+  <hr>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+  ## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This app features all the latest tools and practices in web development!
 
-## Learn More
+- ⚛️ [React Js](https://reactjs.org/) — A JavaScript library for building user interfaces
+- ✡️ [Next.js](https://nextjs.org/) — A serverless framework for React JS
+- 🔄 [Axios](https://axios-http.com/ptbr/docs/intro) — A web framework for Node Js
+- 🔐 [Zod](https://zod.dev/) — A validation lib
+- 💰 [React-hook-form](https://www.react-hook-form.com/) —A validation lib
+- 🎨 [Tailwind CSS](https://tailwindcss.com/docs/installation) A style lib
+- 🎓 [Jest](https://jestjs.io/pt-BR/) A test library
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Requirements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Node.js versão >= 18.17.0
+2. npm, yarn, pnpm ou bun 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Getting started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone this repo using `git clone https://github.com/DeyvisonCost/Quality`
+2. Move yourself to the appropriate directory: `cd Quality`<br />
+3. Run `yarn` to install dependencies
+4. Run `yarn dev`
+5. Open http://localhost:3000 in your browser.<br />
+
+
+## Scripts
+
+1. dev: Starts the development server.
+2. build: Creates the production version of the application.
+3. start: Starts the production server.
+4. lint: Runs ESLint to find and fix code problems.
+5. test: Runs tests with Jest.
+6. test:watch: Runs tests with Jest in watch mode.
+7. test:coverage: Generates a test coverage report.
+
+
+## How to use
+
+When you open http://localhost:3000 in your browser, you’ll have access to the following routes:
+
+- Home ('/')
+- Contact ('/contato')
+- About ('/sobre')
+
+There’s also a 'users' route ('usuarios'), but to access it, you’ll need to go to the login page ('/login'), <br/>
+click on 'Create an Account' ('signin'), and after that, you’ll be redirected back to the login page to use the credentials you just created.
+
+Once you’re logged in, you’ll have access to the 'users' route ('usuarios').
+
+
+
+
+
