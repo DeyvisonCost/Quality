@@ -2,6 +2,12 @@
 
 
 
+<div align="center">
+
+<img src="./public/img/logo.png"/>
+
+</div>
+
 <p align="center">
   Quality-Digital 🌎 </strong>
   
@@ -65,6 +71,13 @@ There’s also a 'users' route ('usuarios'), but to access it, you’ll need to 
 click on 'Create an Account' ('signin'), and after that, you’ll be redirected back to the login page to use the credentials you just created.
 
 Once you’re logged in, you’ll have access to the 'users' route ('usuarios').
+
+<img src="./public/img/login.png"/>
+<img src="./public/img/signin.png"/>
+<img src="./public/img/home.png"/>
+<img src="./public/img/contato.png"/>
+<img src="./public/img/sobre.png"/>
+<img src="./public/img/usuarios.png"/>
 
 
 
